@@ -7,30 +7,32 @@
         <meta charset="UTF-8">  
         <link rel="stylesheet" href="./stilo.css">
         <script src="https://kit.fontawesome.com/f47a415fda.js" crossorigin="anonymous"></script>
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">        
+        <link rel="shortcut icon" href="./img/logo.png" type="image/x-icon">
+        <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
     </head>
     <body>
         <!--formularrio-->
-        <nav class="navbar navbar-expand-lg menu" id="inicio">
-                <a class="navbar-brand" href="#"><img src="./img/jsp.png" alt="alt" height="40"/></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav mr-auto">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="#">Inicio<span class="sr-only">(current)</span></a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#contactenos">Comentarios</a>
-                        </li> 
-                </div>        
-            </nav>
-        <div class="container">
-            
+        <nav class="navbar navbar-expand-lg menu text-center" id="inicio">
+        
+            <a class="navbar-brand pl-5 ml-5 m-auto" href="#"><img src="./img/jsp.png" alt="alt" height="40"/></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link text-center" href="#">Inicio<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contactenos">Comentarios</a>
+                    </li> 
+            </div>        
+        </nav>
+        <div class="container">            
             <!-- jumbotrom -->
             <div>
-                <img src="./img/modelo.jpg" alt="" class="mt-5 borde img-fluid img">
+                <img src="./img/modelo.jpg" alt="" class="mt-5 borde img-fluid w-100 text-center">
             </div>
             
             <form action="procesador.do" method="POST">
@@ -64,10 +66,10 @@
                     <textarea name="descripcion" class="textarea form-control" maxlength="200"></textarea>
                 </div>
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-6 mt-2">
                         <input type="submit" class="btn btn-primary btn-lg btn-block" value="Enviar"/>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 mt-2">
                         <input type="reset" class="btn btn-danger btn-lg btn-block" value="Borrar"/>
                     </div>
                 </div>
@@ -98,14 +100,12 @@
                                     </div>
                                 </div>
                             </form>
-                            
-                            
-                         
                         </div>
                     </div>
                     <a class="nav-link float-right" href="#inicio"><i class="fas fa-arrow-up text-white"></i></a>
                     
                 </div>
+                <div class="text-center pt-5 mt-5 text-white"><b>Desarrollador:</b> Juan Daniel Suarez Amado</div>
                 <p class="text-center pt-5 mt-5 text-white">Para más información al 3209188638<br>o al correo
                     jsuarez130@estudiantes.arenadina.edu.co</p>
             </section>

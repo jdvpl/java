@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1jaframe/1jaframe.iml" filepath="$PROJECT_DIR$/1jaframe/1jaframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2jframe/2jframe.iml" filepath="$PROJECT_DIR$/2jframe/2jframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2jframe ventanas/2jframe ventanas.iml" filepath="$PROJECT_DIR$/2jframe ventanas/2jframe ventanas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BASEDATOS/BASEDATOS.iml" filepath="$PROJECT_DIR$/BASEDATOS/BASEDATOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication14/JavaApplication14.iml" filepath="$PROJECT_DIR$/JavaApplication14/JavaApplication14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SALARIO/SALARIO.iml" filepath="$PROJECT_DIR$/SALARIO/SALARIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aleatorio/aleatorio.iml" filepath="$PROJECT_DIR$/aleatorio/aleatorio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arreglos/arreglos.iml" filepath="$PROJECT_DIR$/arreglos/arreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bucle/bucle.iml" filepath="$PROJECT_DIR$/bucle/bucle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculador/calculador.iml" filepath="$PROJECT_DIR$/calculador/calculador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora/calculadora.iml" filepath="$PROJECT_DIR$/calculadora/calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casos/casos.iml" filepath="$PROJECT_DIR$/casos/casos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conversionesjframe/conversionesjframe.iml" filepath="$PROJECT_DIR$/conversionesjframe/conversionesjframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/detodito/detodito.iml" filepath="$PROJECT_DIR$/detodito/detodito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edinson/edinson.iml" filepath="$PROJECT_DIR$/edinson/edinson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entradasysalidas/entradasysalidas.iml" filepath="$PROJECT_DIR$/entradasysalidas/entradasysalidas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evaluacion/evaluacion.iml" filepath="$PROJECT_DIR$/evaluacion/evaluacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exponente/exponente.iml" filepath="$PROJECT_DIR$/exponente/exponente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formulario/formulario.iml" filepath="$PROJECT_DIR$/formulario/formulario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formulario2/formulario2.iml" filepath="$PROJECT_DIR$/formulario2/formulario2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jframe color/jframe color.iml" filepath="$PROJECT_DIR$/jframe color/jframe color.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jframe menus/jframe menus.iml" filepath="$PROJECT_DIR$/jframe menus/jframe menus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/joption/joption.iml" filepath="$PROJECT_DIR$/joption/joption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librerias/librerias.iml" filepath="$PROJECT_DIR$/librerias/librerias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mensajes/mensajes.iml" filepath="$PROJECT_DIR$/mensajes/mensajes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menuamerica/menuamerica.iml" filepath="$PROJECT_DIR$/menuamerica/menuamerica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menus/menus.iml" filepath="$PROJECT_DIR$/menus/menus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mija/mija.iml" filepath="$PROJECT_DIR$/mija/mija.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacimiento/nacimiento.iml" filepath="$PROJECT_DIR$/nacimiento/nacimiento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operaciones/operaciones.iml" filepath="$PROJECT_DIR$/operaciones/operaciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proyecto/proyecto.iml" filepath="$PROJECT_DIR$/proyecto/proyecto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/proyectos_Sena.iml" filepath="$PROJECT_DIR$/.idea/proyectos_Sena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raices/raices.iml" filepath="$PROJECT_DIR$/raices/raices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raiz/raiz.iml" filepath="$PROJECT_DIR$/raiz/raiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registro/registro.iml" filepath="$PROJECT_DIR$/registro/registro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sumasjframe/sumasjframe.iml" filepath="$PROJECT_DIR$/sumasjframe/sumasjframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textos/textos.iml" filepath="$PROJECT_DIR$/textos/textos.iml" />
+    </modules>
+  </component>
+</project>

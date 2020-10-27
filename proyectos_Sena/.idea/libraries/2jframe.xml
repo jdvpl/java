@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="2jframe">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/2jframe/dist/2jframe.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

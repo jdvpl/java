@@ -1,6 +1,8 @@
 package bucle;
 import javax.swing.*;
-public class Bucle {
+public class
+
+Bucle {
 
     public static void main(String[] args) {
         int num= Integer.parseInt(JOptionPane.showInputDialog("Digite hasta que numero quiere el ciclo"));
