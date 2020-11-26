@@ -88,7 +88,12 @@ public class Publicacion {
     public void setAutor(Autor autor) {
         this.autor = autor;
     }
+
+    @Override
+    public String toString() {
+        return "Publicacion{" + "titulo=" + titulo + ", resumen=" + resumen + ", contenido=" + contenido + ", foto=" + foto + ", votos=" + votos + ", fecha=" + fecha + ", autor=" + autor + '}';
+    }
        
-     
+    
        
 }

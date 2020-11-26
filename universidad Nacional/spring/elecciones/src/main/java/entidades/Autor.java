@@ -62,6 +62,11 @@ public class Autor {
     public void setPublicacions(Set<Publicacion> publicacions) {
         this.publicacions = publicacions;
     }
+
+    @Override
+    public String toString() {
+        return "Autor{" + "email=" + email + ", contrasena=" + contrasena + ", pseudonimo=" + pseudonimo + ", avatar=" + avatar + ", publicacions=" + publicacions + '}';
+    }
     
     
    
