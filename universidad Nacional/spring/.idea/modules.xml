@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/elecciones/jdvpl.iml" filepath="$PROJECT_DIR$/elecciones/jdvpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lol/lol.iml" filepath="$PROJECT_DIR$/lol/lol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
+    </modules>
+  </component>
+</project>

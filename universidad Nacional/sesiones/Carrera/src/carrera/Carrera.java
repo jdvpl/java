@@ -36,11 +36,11 @@
  * (E-mail: <A HREF="mailto:jgomezpe@unal.edu.co">jgomezpe@unal.edu.co</A> )
  * @version 1.0
  */
-import vehiculo.Automovil;
-import vehiculo.Platon;
-import vehiculo.Deportivo;
-import vehiculo.Furgon;
-import vehiculo.Vehiculo;
+import carrera.vehiculo.Automovil;
+import carrera.vehiculo.Platon;
+import carrera.vehiculo.Deportivo;
+import carrera.vehiculo.Furgon;
+import carrera.vehiculo.Vehiculo;
 
 /**
  * Main class
